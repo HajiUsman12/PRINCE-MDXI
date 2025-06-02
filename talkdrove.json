@@ -8,7 +8,7 @@
   
   "env": {
     "SESSION_ID": {
-      "description": "PRINCE-MDX~1lL7PYOHAolq3xpeDgEP,
+      "description": "PRINCE-MDX~1lL7PYOHAolq3xpeDgEP",
       "required": true,
       "value": ""
     },  
