@@ -10,17 +10,17 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put your session-id here. Must Start with 'PRINCE-MDX~'",
+      "description": "PRINCE-MDX~1lL7PYOHAolq3xpeDgEP",
       "required": true,
       "value": ""
     },  
     "MODE": {
       "description": "Set Mode  to 'public' to work in all chats only, 'inbox' to work in pm(inbox) chats only or 'private' to work for you only. Default is 'public'. You can set up this later using .mode",
-      "required": false,
+      "required": true,
       "value": "public"
     },
     "OWNER_NAME": {
-      "description": "Put Owner Name Here",
+      "description": "Noob Hasan",
       "required": true,
       "value": "PRINCE"
     },
